@@ -22,5 +22,3 @@ Based on the data exploration and the machine learning feature analysis, here ar
 1. Clone this repository to your local machine.
 2. Ensure you have Python and the required visualization libraries installed (`pandas`, `seaborn`, `matplotlib`, `sklearn`).
 3. Open the `Advance_Bank_Term_Deposit2.ipynb` notebook in Jupyter Notebook or VS Code to review the data cleaning steps, plots, and feature importance rankings.
-
-> 📌 **Note on Dataset:** The dataset file `data.csv` has been excluded from this public repository directory to keep performance optimized. However, the entire data analytics pipeline, chart configurations, and regression behaviors are fully documented and reviewable inside the Jupyter Notebook.
